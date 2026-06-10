@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "tenSp": "Điện thoại Iphone 15",
+    "danhMuc": "Điện thoại",
+    "gia": "24.990.000 đ"
+  },
+  {
+    "id": 2,
+    "tenSp": "Máy tính bảng Samsung Galaxy Tab S9",
+    "danhMuc": "Máy tính bảng",
+    "gia": "18.500.000 đ"
+  },
+  {
+    "id": 3,
+    "tenSp": "Chuột Logitech MX Master 3S",
+    "danhMuc": "Phụ kiện",
+    "gia": "2.490.000 đ"
+  },
+  {
+    "id": 4,
+    "tenSp": "Máy tính xách tay MacBook Air M3",
+    "danhMuc": "Laptop",
+    "gia": "31.990.000 đ"
+  },
+  {
+    "id": 5,
+    "tenSp": "Tai nghe Sony WH-1000XM5",
+    "danhMuc": "Tai nghe",
+    "gia": "7.990.000 đ"
+  }
+]
